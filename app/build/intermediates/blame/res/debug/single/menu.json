@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\movie_detail.xml",
+        "source": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\src\\main\\res\\menu\\movie_detail.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\base_header_menu.xml",
+        "source": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\src\\main\\res\\menu\\base_header_menu.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\webview_menu.xml",
+        "source": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\src\\main\\res\\menu\\webview_menu.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\slide.xml",
+        "source": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\src\\main\\res\\menu\\slide.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gank_bottomsheet.xml",
+        "source": "E:\\androidproject\\CPPJCT\\CloudReader-master\\app\\src\\main\\res\\menu\\gank_bottomsheet.xml"
+    }
+]

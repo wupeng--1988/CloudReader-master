@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\software\androidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_ae60192ea476378691e8bda7de257b7323e82962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\software\androidStudio\sdk\build-tools\25.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\renderscript-v8_4375e565120c29d52532e1916e5ed76f69b01e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_6b0d75ab9f5ca676047be0946599d3f35aa1ca82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\CloudReader-master.library\http\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8cfa9dbbad48c5db94db92d0e2d50772b94edaae">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\CloudReader-master.library-http-unspecified_8a71a60c817888f7e1ff3696ead3e20e481263f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_3b179eeb2e8960aca8259f2e51a418f4a750b8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_2ee05319a2fd5802f32e22f7ecca38ae7a52e106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_963a12a8daf7d81004474d4fb6150c803a1a00b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_de7b87c1302a83e17b2554a2bb96bc15f6017129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_46b9ad5059722a6aa76c1feaad3974897eebc43a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_ff7b752cf7a616f0c1f085b6f88fd2be28a1437b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\gson-2.8.0_da68f2b47ce629dcf104ded2606382abb3988cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_4163803616b7c4d4879439332537314e5d77d8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_86c7daee050402dea0e69630aa614c6f3f2cec1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_8d87aa5b681adae5a87864ec8984ef7909c28356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.cocosw\bottomsheet\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37a4672e2ae8d65082bd66183d12fcd5d106a336">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.cocosw-bottomsheet-1.3.0_d27a37c920a28bdcf51c6c6f177ca20e7c5d1ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\jp.wasabeef-glide-transformations-2.0.1_78f15a6623c0aa3d55429ccfb7f30723f7dd4c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_84217272506d4f69b3a0b076d8cad932b97acb73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_10d87f20b460b1c1841f253efdda988a401deb64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_d8bbc1ff07a53e797ec0e8d1bdb4d769d41212de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.5_00c90a1c326af82f2de016ebb1347874784c7b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\okio-1.11.0_c7124b6acc153d57394b5b9e28b51b12bc4dce3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_069090dcb89336459f60f2ac340847cce7272100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_864f05789b412a432de353ee275017722c34e8b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.9\87372d9e2323313bec24b09a325bfea8ae0eb867\aspectjrt-1.8.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87372d9e2323313bec24b09a325bfea8ae0eb867">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.9_d20816c6298a7999d901d41ae4370072f3c06b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_bb931b76944587376c61ec09bed2630a152ba99c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\core-3.2.1_99b45d0ba3d60a1afe4a05e233c76c45ca199205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\okhttp-3.4.2_f14648d052e7b0ae68a032b0a866ab7202d0f89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_53dfe30baa30f52794ed5708bcc11d104469af3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.3\b4b51d1925cdfda98fd861230c1ecb5855500129\baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.3_3b63c03e737d9e105e8579823f8c09a6745dffb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hhb\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.1_750169fbbc7ae752c66c5f104df54e420a4c53be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.daimajia.slider-library-1.1.5_9401de563f7aa921b5e83b3bd3cceab1c23d3650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\CloudReader-master.library\zoomlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b813230ce8285deed2cf6985eeaea549d1b0ce9b">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\CloudReader-master.library-zoomlibrary-unspecified_ac2938fc1e140882b56694e0dea4e3acd9f4bdc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\CloudReader-master.library\xrecyclerview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6c414518fe6c033604b9398c38f89caf75886de">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\CloudReader-master.library-xrecyclerview-unspecified_6bdbbd47659efae8ca03f4a9433ee355ce7aa3b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.youth.banner\banner\1.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e68112d7f0501ed46b88e4225cfbae629c240e5">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.youth.banner-banner-1.4.2_931b7dce6569c51101a3faeab3cc355021b36891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_47dceabc64e97fa5b36dfa5b95cb0298ddb9c1f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_6812d2ceb34e60d388055e5dfb51f9476960cf25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\CloudReader-master\aspectj\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9eba8670760deafa8c9f9390d35a16efec607851">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\CloudReader-master-aspectj-unspecified_b8675b8e5f2f99c0b5f9b3000dc77928335ee95e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.0_9bc126de8e8df59da0dac0d07ca746b5e21598f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\androidproject\CPPJCT\CloudReader-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_07f913b82cddc4c4b85c612493a5e553d81d1174.jar" />
+    </item>
+
+</items>
